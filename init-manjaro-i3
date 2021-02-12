@@ -1,7 +1,0 @@
-#!bin/bash
-# Install softwares for a newly installed ManjaroOS i3 and init time
-
-sudo pacman -Syu fcitx fcitx-configtool fcitx-unikey pavucontrol pulseaudio okular
-sudo pacman -Rs epdfview palemoon-bin
-pamac build google-chrome visual-studio-code-bin
-sudo timedate-tcl set-ntp true
