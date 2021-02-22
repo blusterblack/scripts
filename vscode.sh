@@ -8,4 +8,4 @@ code --install-extension gruntfuggly.todo-tree
 code --install-extension ms-toolsai.jupyter
 code --install-extension xabikos.javascriptsnippets
 code --install-extension dsznajder.es7-react-js-snippets
-
+code --install-extension esbenp.prettier-vscode
