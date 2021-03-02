@@ -12,8 +12,6 @@ rm ./Stretchly-1.4.0.pacman
 wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
 bash ./Anaconda3-2020.11-Linux-x86_64.sh
 rm ./Anaconda3-2020.11-Linux-x86_64.sh
-fish
-set -U fish_user_paths ~/anaconda3/bin $fish_user_paths
 conda init fish
 
 sudo timedatectl set-timezone Asia/Ho_Chi_Minh
