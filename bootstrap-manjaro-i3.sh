@@ -6,7 +6,7 @@ sudo pacman -Syyu
 sudo pacman -Syu rofi xclip fcitx fcitx-configtool fcitx-unikey pavucontrol pulseaudio okular firefox fish guake ttf-fira-code noto-fonts-cjk nodejs npm unzip
 sudo pacman -Rs epdfview palemoon-bin
 
-pamac build visual-studio-code-bin marktext
+pamac build visual-studio-code-bin
 code --install-extension ms-python.python
 code --install-extension eamodio.gitlens
 code --install-extension vscode-icons-team.vscode-icons
