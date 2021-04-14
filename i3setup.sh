@@ -13,3 +13,13 @@ rm ~/Stretchly-1.4.0.pacman
 rm ./Anaconda3-2020.11-Linux-x86_64.sh
 sudo timedatectl set-timezone Asia/Ho_Chi_Minh
 sudo timedatectl set-ntp true
+code --install-extension ms-python.vscode-pylance
+code --install-extension coenraads.bracket-pair-colorizer-2
+code --install-extension gruntfuggly.todo-tree
+code --install-extension eamodio.gitlens
+code --install-extension ms-vscode.cpptools
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension esbenp.prettier-vscode
+code --install-extension visualstudioexptteam.vscodeintellicode
+code --install-extension vscode-icons-team.vscode-icons
+code --install-extension xabikos.javascriptsnippets
