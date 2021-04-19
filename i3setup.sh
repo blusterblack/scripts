@@ -3,7 +3,7 @@
 cd ~
 sudo pacman -Rs epdfview palemoon-bin
 sudo pacman -Syyu
-sudo pacman -Syu rofi xclip fcitx fcitx-configtool fcitx-unikey pavucontrol pulseaudio okular fish kitty ttf-fira-code noto-fonts-cjk nodejs npm unzip
+sudo pacman -Syu rofi xclip fcitx fcitx-configtool fcitx-unikey pavucontrol pulseaudio okular fish alacritty ttf-fira-code noto-fonts-cjk nodejs npm unzip polybar 
 pamac build visual-studio-code-bin google-chrome typora
 wget https://github.com/hovancik/stretchly/releases/download/v1.4.0/Stretchly-1.4.0.pacman
 wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
